@@ -1,3 +1,2 @@
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=feyzeer&count_private=true) 
-
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=feyzeer&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=feyzeer&layout=compact&theme=radical)
