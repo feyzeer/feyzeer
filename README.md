@@ -1,6 +1,2 @@
-- 👋 Hi, I’m @feyzeer
-- 👀 I’m interested in web developemnt
-- 🌱 I’m currently learning php
-- 📫 How to reach me at adambakkar54@gmail.com 
-
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=feyzeer.)](https://github.com/feyzeer./github-readme-stats)
 
